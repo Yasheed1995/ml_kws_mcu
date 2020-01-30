@@ -1,3 +1,7 @@
 _silence_
 _unknown_
+rtone
+birds
 chain
+rain
+wind

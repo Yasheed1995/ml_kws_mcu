@@ -1,2 +1,2 @@
-model_checkpoint_path: "dnn_10000.ckpt-400"
-all_model_checkpoint_paths: "dnn_10000.ckpt-400"
+model_checkpoint_path: "dnn_9692.ckpt-100"
+all_model_checkpoint_paths: "dnn_9692.ckpt-100"
